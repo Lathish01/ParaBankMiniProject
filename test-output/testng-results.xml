@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-13T19:27:15 IST" name="login suite" finished-at="2024-01-13T19:27:29 IST" duration-ms="13909">
+    <groups>
+    </groups>
+    <test started-at="2024-01-13T19:27:15 IST" name="valid test" finished-at="2024-01-13T19:27:29 IST" duration-ms="13909">
+      <class name="loginTestCases.validLoginTestData">
+        <test-method is-config="true" signature="startApplication()[pri:0, instance:loginTestCases.validLoginTestData@1b7cc17c]" started-at="2024-01-13T19:27:15 IST" name="startApplication" finished-at="2024-01-13T19:27:21 IST" duration-ms="5932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startApplication -->
+        <test-method signature="validTest()[pri:0, instance:loginTestCases.validLoginTestData@1b7cc17c]" started-at="2024-01-13T19:27:21 IST" name="validTest" finished-at="2024-01-13T19:27:29 IST" duration-ms="7914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validTest -->
+      </class> <!-- loginTestCases.validLoginTestData -->
+    </test> <!-- valid test -->
+  </suite> <!-- login suite -->
+</testng-results>
